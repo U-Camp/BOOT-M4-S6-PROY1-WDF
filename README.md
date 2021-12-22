@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# PROYECTO 1: Landing de Negocio
+# WDF M4 S5 Y S6: PROYECTO 1 - Landing de Negocio
 
 ## **ÍNDICE**
 
